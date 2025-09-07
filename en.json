@@ -1,0 +1,23 @@
+{
+  "Index": {
+    "title": "Welcome to Dashboard",
+    "kpi1": "Total Bookings",
+    "kpi2": "New Customers",
+    "kpi3": "Revenue",
+    "banner": "This is a test banner to demonstrate i18n."
+  },
+  "Navigation": {
+    "home": "Home",
+    "bookings": "Bookings",
+    "calendar": "Calendar",
+    "economy": "Economy",
+    "customers": "Customers",
+    "resources": "Resources"
+  },
+  "LanguageSwitcher": {
+    "switch_to_en": "Switch to English",
+    "switch_to_sv": "Byt till Svenska"
+  }
+}
+
+

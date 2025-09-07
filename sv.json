@@ -1,0 +1,23 @@
+{
+  "Index": {
+    "title": "Välkommen till Dashboard",
+    "kpi1": "Totala Bokningar",
+    "kpi2": "Nya Kunder",
+    "kpi3": "Intäkter",
+    "banner": "Detta är en testbanner för att visa i18n."
+  },
+  "Navigation": {
+    "home": "Hem",
+    "bookings": "Bokningar",
+    "calendar": "Kalender",
+    "economy": "Ekonomi",
+    "customers": "Kunder",
+    "resources": "Resurser"
+  },
+  "LanguageSwitcher": {
+    "switch_to_en": "Switch to English",
+    "switch_to_sv": "Byt till Svenska"
+  }
+}
+
+
