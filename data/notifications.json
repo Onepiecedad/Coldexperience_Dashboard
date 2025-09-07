@@ -1,0 +1,4 @@
+[
+  { "id": 1, "message": "New booking received" },
+  { "id": 2, "message": "Payment pending" }
+]
