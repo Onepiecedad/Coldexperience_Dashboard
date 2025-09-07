@@ -1,0 +1,6 @@
+{
+  "slots": [
+    { "id": 1, "time": "10:00", "booked": true },
+    { "id": 2, "time": "11:00", "booked": false }
+  ]
+}
